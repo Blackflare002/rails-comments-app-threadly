@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby on Rails app for writing and submitting comments. HTML, CSS and guidelines provided by Codecademy. Actual work done by me!
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![threadly](https://user-images.githubusercontent.com/60205439/202282811-5e2c1ef1-1833-4833-9063-c726aa0d448c.png)
